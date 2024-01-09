@@ -6,8 +6,8 @@
         "key_code": "d"
       },
       "parameters": {
-        "basic.to_if_alone_timeout_milliseconds": 120,
-        "basic.to_if_held_down_threshold_milliseconds": 120
+        "basic.to_if_alone_timeout_milliseconds": 110,
+        "basic.to_if_held_down_threshold_milliseconds": 110
       },
       "to_delayed_action": {
         "to_if_canceled": [
@@ -36,8 +36,8 @@
         "key_code": "k"
       },
       "parameters": {
-        "basic.to_if_alone_timeout_milliseconds": 120,
-        "basic.to_if_held_down_threshold_milliseconds": 120
+        "basic.to_if_alone_timeout_milliseconds": 110,
+        "basic.to_if_held_down_threshold_milliseconds": 110
       },
       "to_delayed_action": {
         "to_if_canceled": [
@@ -66,8 +66,8 @@
         "key_code": "f"
       },
       "parameters": {
-        "basic.to_if_alone_timeout_milliseconds": 120,
-        "basic.to_if_held_down_threshold_milliseconds": 120
+        "basic.to_if_alone_timeout_milliseconds": 110,
+        "basic.to_if_held_down_threshold_milliseconds": 110
       },
       "to_delayed_action": {
         "to_if_canceled": [
@@ -96,8 +96,8 @@
         "key_code": "j"
       },
       "parameters": {
-        "basic.to_if_alone_timeout_milliseconds": 120,
-        "basic.to_if_held_down_threshold_milliseconds": 120
+        "basic.to_if_alone_timeout_milliseconds": 110,
+        "basic.to_if_held_down_threshold_milliseconds": 110
       },
       "to_delayed_action": {
         "to_if_canceled": [
@@ -126,8 +126,8 @@
         "key_code": "s"
       },
       "parameters": {
-        "basic.to_if_alone_timeout_milliseconds": 120,
-        "basic.to_if_held_down_threshold_milliseconds": 120
+        "basic.to_if_alone_timeout_milliseconds": 110,
+        "basic.to_if_held_down_threshold_milliseconds": 110
       },
       "to_delayed_action": {
         "to_if_canceled": [
@@ -156,8 +156,8 @@
         "key_code": "l"
       },
       "parameters": {
-        "basic.to_if_alone_timeout_milliseconds": 120,
-        "basic.to_if_held_down_threshold_milliseconds": 120
+        "basic.to_if_alone_timeout_milliseconds": 110,
+        "basic.to_if_held_down_threshold_milliseconds": 110
       },
       "to_delayed_action": {
         "to_if_canceled": [
