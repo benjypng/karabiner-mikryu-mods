@@ -2,6 +2,19 @@
   "description": "Miryoku Mods",
   "manipulators": [
     {
+      "conditions": [
+        {
+          "identifiers": [
+            {
+              "vendor_id": 1452
+            },
+            {
+              "vendor_id": 13364
+            }
+          ],
+          "type": "device_if"
+        }
+      ],
       "from": {
         "key_code": "f"
       },
@@ -29,12 +42,22 @@
           "key_code": "left_control"
         }
       ],
-      "type": "basic",
-      "conditions": [
-        { "type": "device_if", "identifiers": [{ "vendor_id": 1452 }] }
-      ]
+      "type": "basic"
     },
     {
+      "conditions": [
+        {
+          "identifiers": [
+            {
+              "vendor_id": 1452
+            },
+            {
+              "vendor_id": 13364
+            }
+          ],
+          "type": "device_if"
+        }
+      ],
       "from": {
         "key_code": "j"
       },
@@ -62,12 +85,22 @@
           "key_code": "left_control"
         }
       ],
-      "type": "basic",
-      "conditions": [
-        { "type": "device_if", "identifiers": [{ "vendor_id": 1452 }] }
-      ]
+      "type": "basic"
     },
     {
+      "conditions": [
+        {
+          "identifiers": [
+            {
+              "vendor_id": 1452
+            },
+            {
+              "vendor_id": 13364
+            }
+          ],
+          "type": "device_if"
+        }
+      ],
       "from": {
         "key_code": "d"
       },
@@ -95,12 +128,22 @@
           "key_code": "left_command"
         }
       ],
-      "type": "basic",
-      "conditions": [
-        { "type": "device_if", "identifiers": [{ "vendor_id": 1452 }] }
-      ]
+      "type": "basic"
     },
     {
+      "conditions": [
+        {
+          "identifiers": [
+            {
+              "vendor_id": 1452
+            },
+            {
+              "vendor_id": 13364
+            }
+          ],
+          "type": "device_if"
+        }
+      ],
       "from": {
         "key_code": "k"
       },
@@ -128,12 +171,22 @@
           "key_code": "left_command"
         }
       ],
-      "type": "basic",
-      "conditions": [
-        { "type": "device_if", "identifiers": [{ "vendor_id": 1452 }] }
-      ]
+      "type": "basic"
     },
     {
+      "conditions": [
+        {
+          "identifiers": [
+            {
+              "vendor_id": 1452
+            },
+            {
+              "vendor_id": 13364
+            }
+          ],
+          "type": "device_if"
+        }
+      ],
       "from": {
         "key_code": "s"
       },
@@ -161,12 +214,22 @@
           "key_code": "left_shift"
         }
       ],
-      "type": "basic",
-      "conditions": [
-        { "type": "device_if", "identifiers": [{ "vendor_id": 1452 }] }
-      ]
+      "type": "basic"
     },
     {
+      "conditions": [
+        {
+          "identifiers": [
+            {
+              "vendor_id": 1452
+            },
+            {
+              "vendor_id": 13364
+            }
+          ],
+          "type": "device_if"
+        }
+      ],
       "from": {
         "key_code": "l"
       },
@@ -194,10 +257,7 @@
           "key_code": "left_shift"
         }
       ],
-      "type": "basic",
-      "conditions": [
-        { "type": "device_if", "identifiers": [{ "vendor_id": 1452 }] }
-      ]
+      "type": "basic"
     }
   ]
 }
